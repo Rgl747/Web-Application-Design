@@ -1,13 +1,17 @@
 # Web Application Design
 
-## Información personal
+## Información 
 
 ---
 
 **Nombre:** Angel Jiménez
+
 **Matricula:** 2969764
+ 
 **Grado:** 6to
+ 
 **Carrera:** IDS
+
 
 ## Información materia
 
